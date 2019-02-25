@@ -7,16 +7,16 @@ Ion thrusters use beams of ions (electrically charged atoms or molecules) to cre
 
 ![](https://www.studzine.com/wp-content/uploads/2017/10/StudZine.com-Ion-Propulsion-Diagram.png)
 
+The difference between ion propulsion and conventional propulsion is 
+that in ion propulsion you are throwing little tiny amounts of stuff 
+out the back at very high speeds but in conventional propulsion
+you are throwing huge amounts of stuff out the back at a slower speed.
+
 ```
 Force = Mass x Acceleration
-The difference between ion propulsion and conventional propulsion is that in ion propulsion you are throwing little tiny amounts of stuff out the back at very high speeds but in conventional propulsion you are throwing huge amounts of stuff out the back at a slower speed.
-
-Ion rocket:
-
+Ion rocket: 
     Force = little tiny mass x BIG ACCELERATION
-
 Normal rocket:
-
     Force = HUGE MASS x less acceleration
 ```
 
