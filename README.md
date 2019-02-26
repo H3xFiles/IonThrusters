@@ -21,7 +21,7 @@ Normal rocket:
 ```
 
 ### Papers
-[](http://erps.spacegrant.org/uploads/images/2015Presentations/IEPC-2015-275_ISTS-2015-b-275.pdf)
+[1 Joint Conference of 30th ISTS, 34th IEPC and 6th NSAT, Kobe-Hyogo, Japan July 4 – 10, 2015 Miniature Ion Thrusters: A Review of Modern Technologies and Mission Capabilities](http://erps.spacegrant.org/uploads/images/2015Presentations/IEPC-2015-275_ISTS-2015-b-275.pdf)
 
 ### Documentaries
 - [How Do Ion Engines Work? The Most Efficient Propulsion System Out There](https://www.youtube.com/watch?v=6H0qsqZjLW0)
